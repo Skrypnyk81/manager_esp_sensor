@@ -1,0 +1,9 @@
+# docker-compose.yml
+version: '3'
+services:
+  myapp:
+    image: ghcr.io/skrypnyk81/manager_esp_sensor:v0.3.0-194e21b-linux-amd64
+    env_file:
+      - .env
+    environment:
+      - TZ=Europe/Rome
