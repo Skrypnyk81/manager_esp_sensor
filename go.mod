@@ -1,6 +1,6 @@
 module github.com/Skrypnyk81/manager_esp_sensor
 
-go 1.23.0
+go 1.23
 
 require (
 	github.com/lib/pq v1.10.9
