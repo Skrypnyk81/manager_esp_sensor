@@ -1,6 +1,5 @@
 /*
 Copyright © 2024 Skrypnyk Yuriy <skrypnyk81@gmail.com>
-
 */
 package cmd
 
