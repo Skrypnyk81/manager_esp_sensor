@@ -5,3 +5,4 @@ services:
       - .env
     environment:
       - TZ=Europe/Rome
+    restart: "no"
